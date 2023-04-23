@@ -1,0 +1,1 @@
+Label(screen, text="Title", font=('Calibri', 14)).grid(row=0, sticky=N, pady=10)
